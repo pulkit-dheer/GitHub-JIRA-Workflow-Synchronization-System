@@ -32,14 +32,14 @@ The **GitHub-JIRA Workflow Synchronization System** is designed to enhance colla
 
 ## Prerequisites
 
-1. Python 3.X: Ensure that Python 3 is installed on your system. You can download it from [python.org](https://www.python.org/).
+1. **Python 3.X**: Ensure that Python 3 is installed on your system. You can download it from [python.org](https://www.python.org/).
 
-2. JIRA Account
+2. **JIRA Account**
     - Project Key
     - Issue Type ID
     - JIRA API Token
 
-3. GitHub Account:
+3. **GitHub Account:**
     - webhook Configuration
 
 
