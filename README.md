@@ -3,7 +3,7 @@
 ### Overview
 
 
-![GitHub-JIRA Architecture Diagram]()
+![GitHub-JIRA Architecture Diagram](https://github.com/pulkit-dheer/GitHub-JIRA-Workflow-Synchronization-System/blob/main/assests/images/GitHub-JIRA%20Architecture%20Diagram.gif)
 
 
 
@@ -13,19 +13,19 @@ The **GitHub-JIRA Workflow Synchronization System** is designed to enhance colla
 
 ## Key Advantages 
 
-- Streamlined Workflow Automation
+- **Streamlined Workflow Automation**
 
     By automatically creating JIRA issues from GitHub events and validating pull request titles, this system eliminates manual entry and reduces the likelihood of human error. It fosters a smoother, more efficient development process.
 
-- Enhanced Traceability
+- **Enhanced Traceability**
 
     The integration allows for quick access to relevant code changes linked directly to JIRA issues. This end-to-end traceability ensures that team members can easily track the progress of tasks and understand the context of code changes, leading to better project outcomes.
 
-- Improved Collaboration
+- **Improved Collaboration**
 
     With the ability to generate remote links in JIRA for related pull requests, team members can navigate between code and project management seamlessly. This fosters collaboration among developers, project managers, and stakeholders, ensuring everyone is aligned and informed.
 
-- Proactive Error Handling
+- **Proactive Error Handling**
 
     The system includes robust logging and error handling mechanisms to ensure reliable synchronization between GitHub and JIRA. By proactively managing errors, it helps maintain the integrity of the workflow, reducing disruptions in the development process.
 
@@ -71,7 +71,7 @@ You need to set the following environment variables in your terminal or system e
     export PORT="9000"  # Optional: Change if you want to use a different port
     ```
 
-![GitHub_Jira_code]()
+![GitHub_Jira_code](https://github.com/pulkit-dheer/GitHub-JIRA-Workflow-Synchronization-System/blob/main/assests/images/GitHub_Jira_code.png)
 
 5. **Set Up GitHub Webhooks**
     - Navigate to **Settings** > **Webhooks** > **Add webhook**.
@@ -86,9 +86,9 @@ You need to set the following environment variables in your terminal or system e
     - Add a comment with the command `/createjira` to trigger the JIRA issue creation.
     - Observe the logs in your terminal running the Flask application for any errors or confirmations.
 
-![GitHub_issue_creation]()
+![GitHub_issue_creation](https://github.com/pulkit-dheer/GitHub-JIRA-Workflow-Synchronization-System/blob/main/assests/images/GitHub_issue_creation.png)
 
-![Jira_remote_link]()
+![Jira_remote_link](https://github.com/pulkit-dheer/GitHub-JIRA-Workflow-Synchronization-System/blob/main/assests/images/Jira_remote_link.png)
 
 
 ## 🏁 Conclusion
