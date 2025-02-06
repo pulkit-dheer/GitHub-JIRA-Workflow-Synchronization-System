@@ -27,7 +27,7 @@ The **GitHub-JIRA Workflow Synchronization System** is designed to enhance colla
 
 - **Proactive Error Handling**
 
-    The system includes robust logging and error handling mechanisms to ensure reliable synchronization between GitHub and JIRA. By proactively managing errors, it helps maintain the integrity of the workflow, reducing disruptions in the development process.
+    The system includes robust logging and error-handling mechanisms to ensure reliable synchronization between GitHub and JIRA. Proactively managing errors helps maintain the integrity of the workflow, reducing disruptions in the development process.
 
 
 ## Prerequisites
@@ -93,7 +93,7 @@ You need to set the following environment variables in your terminal or system e
 
 ## 🏁 Conclusion
 
-The GitHub-JIRA Workflow Synchronization System empowers organizations to streamline their project management processes by seamlessly integrating GitHub and JIRA workflows. By automating the synchronization of pull requests, comments, and JIRA issues, teams can enhance collaboration and maintain a clear visibility of their development progress. This integration not only reduces manual effort but also minimizes the risk of discrepancies between development and project management tools, ultimately driving efficiency and aligning teams with business objectives.
+The GitHub-JIRA Workflow Synchronization System empowers organizations to streamline their project management processes by seamlessly integrating GitHub and JIRA workflows. By automating the synchronization of pull requests, comments, and JIRA issues, teams can enhance collaboration and maintain clear visibility of their development progress. This integration not only reduces manual effort but also minimizes the risk of discrepancies between development and project management tools, ultimately driving efficiency and aligning teams with business objectives.
 
 
 ## ❓ FAQ
